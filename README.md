@@ -1,4 +1,4 @@
-#  Исчезновение бутылки WebGL Bug Fix  https://icamysss.github.io/Bottle/
+#  Исчезновение бутылки WebGL Bug Fix  https://icamysss.github.io/kwork_Bottle/
 
 **Описание репозитория**  
 Репозиторий содержит проект с исследованием бага, при котором бутылка исчезала в WebGL-билде. 
